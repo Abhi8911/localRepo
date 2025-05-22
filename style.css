@@ -1,6 +1,13 @@
 p{
     color:red;
 }
+a{
+    color:blue;
+}
 /*comment*/
 /*Another comment*/
+<<<<<<< HEAD
 /*No*/
+=======
+/*Again*/
+>>>>>>> feature1
